@@ -36,7 +36,7 @@ class Hello {
 
 class MyHomePageState extends State<MyHomePage> {
 
-  int counter = 0;
+  int counter = 5;
   int _currentIndex = 0;
   PageController _pageController;
 
